@@ -1,5 +1,11 @@
 {
- "name": "App",
+ "name": "ComicsPoint",
+ "short_name": "ComicsPoint",
+ "description": "comic book reader built using web technologies",
+ "lang": "en",
+ "start_url": "/",
+ "display": "standalone",
+ "theme_color": "#ffff00",
  "icons": [
   {
    "src": "/ico/android-icon-36x36.png",
