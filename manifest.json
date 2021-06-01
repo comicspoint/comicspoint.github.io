@@ -4,22 +4,22 @@
     "short_name": "ComicsPoint",
     "icons": [
         {
-            "src": "http://comicspoint.github.io/images/logo-192.png",
+            "src": "h/images/logo-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "http://comicspoint.github.io/images/logo.png",
+            "src": "/images/logo.png",
             "sizes": "300x300",
             "type": "image/png"
         },
         {
-            "src": "http://comicspoint.github.io/images/logo-512.png",
+            "src": "/images/logo-512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "http://comicspoint.github.io/images/logo.svg",
+            "src": "/images/logo.svg",
             "sizes": "192x192 512x512 800x800 1000x1000",
             "type": "image/svg+xml"
         }
@@ -28,8 +28,8 @@
     "background_color": "#444444",
     "theme_color": "#ffff00",
     "start_url": "index.html",
-    "url": "http://comicspoint.github.io/",
-    "manifestUrl": "http://comicspoint.github.io/manifest.json",
+    "url": "https://comicspoint.github.io/",
+    "manifestUrl": "/manifest.json",
     "lang": "en",
     "orientation": "any",
     "scope": "ComicsPoint"
