@@ -34,3 +34,10 @@
   },
   "required": ["items"]
 }
+{
+  "baseURI": "https://dbkino.ru",
+  "items": [
+    {"type": "book", "uri": "https://dbkino.ru/archive_8177_125003.cbr", "name": "Optional name"},
+    {"type": "book", "uri": "https://dbkino.ru/archive_8177_125003.cbr"}
+  ]
+}
