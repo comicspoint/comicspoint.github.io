@@ -24,13 +24,13 @@
             "type": "image/svg+xml"
         }
     ],
-    "display": "standalone",
-    "background_color": "#444444",
-    "theme_color": "#ffff00",
-    "start_url": "/index.html",
-    "url": "hhttps://web.comicspoint.cc/",
-    "manifestUrl": "/manifest.json",
+
+    "name": "ComicsPoint Comic Book Reader",
+    "short_name": "ComicsPoint",
+    "description": "Open source comic book reader built using web technologies.",
     "lang": "en",
-    "orientation": "any",
-    "scope": "ComicsPoint"
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#E6E6FA",
+    "background_color": "#E6E6FA"
 }
