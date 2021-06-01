@@ -4,7 +4,7 @@
     "short_name": "ComicsPoint",
     "icons": [
         {
-            "src": "h/images/logo-192.png",
+            "src": "/images/logo-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
@@ -28,7 +28,7 @@
     "background_color": "#444444",
     "theme_color": "#ffff00",
     "start_url": "/index.html",
-    "url": "https://comicspoint.github.io/",
+    "url": "hhttps://web.comicspoint.cc/",
     "manifestUrl": "/manifest.json",
     "lang": "en",
     "orientation": "any",
