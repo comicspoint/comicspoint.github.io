@@ -27,7 +27,7 @@
     "display": "standalone",
     "background_color": "#444444",
     "theme_color": "#ffff00",
-    "start_url": "http://comicspoint.github.io/",
+    "start_url": "index.html",
     "url": "http://comicspoint.github.io/",
     "manifestUrl": "http://comicspoint.github.io/manifest.json",
     "lang": "en",
