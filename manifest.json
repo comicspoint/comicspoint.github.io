@@ -1,0 +1,36 @@
+{
+    "name": "ComicsPoint Comic Book Reader",
+    "description": "comic book reader built using web technologies.",
+    "short_name": "ComicsPoint",
+    "icons": [
+        {
+            "src": "https://comicspoint.github.io/images/logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://comicspoint.github.io/images/logo.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "https://comicspoint.github.io/images/logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://comicspoint.github.io/images/logo.svg",
+            "sizes": "192x192 512x512 800x800 1000x1000",
+            "type": "image/svg+xml"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#444444",
+    "theme_color": "#ffff00",
+    "start_url": "https://comicspoint.github.io/",
+    "url": "https://comicspoint.github.io/",
+    "manifestUrl": "https://comicspoint.github.io/manifest.json",
+    "lang": "en",
+    "orientation": "any",
+    "scope": "ComicsPoint"
+}
